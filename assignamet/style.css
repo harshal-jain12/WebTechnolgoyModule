@@ -1,0 +1,103 @@
+a{
+    color:#686262 !important;
+}
+
+a:hover{
+    color:rgb(213, 17, 17) !important;
+}
+
+header{
+    padding: 15px;
+    background-color: rgb(235, 235, 235);
+}
+
+section h2{
+    padding: 15px;
+
+}
+
+.col-xl-5{
+    text-align: center;
+}
+
+.accordion-body{
+    background-color: rgb(226, 234, 230);
+}
+
+.col-xl-3 img{
+    
+    width: 270px;
+    height: 200px;
+    
+}
+
+.btn-group {
+    margin: 45px 180px;
+}
+
+.btn-group a {
+    background: rgb(0, 0, 0);
+    padding: 1.0rem 2rem;
+    border: none;
+    color: #FFFFFF;
+    /* display: inline-block; */
+    text-transform: uppercase;
+    font-size: 1rem;
+    font-weight: 800;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    border-radius: 200px;
+    margin: 10px;
+    box-shadow: 1px 1px 25px rgba(218, 215, 215, 0.7);
+    text-decoration: none;
+}
+
+.col-xl-12{
+    background-color: rgb(165, 165, 155);
+}
+
+.carousel-inner{
+    background-color: #c7413f;
+}
+.form1{
+    border: solid;
+    border-radius: 20px;
+}
+
+.mb-3{
+    padding: 20px;
+}
+
+.download{
+    width: 150px;
+    height: 90px;
+    padding-top: 20px;
+    border: solid;
+    border-radius: 20px;
+    margin-left: 90px;
+}
+
+
+
+.con1{
+    border: solid;
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.end{
+    border: solid;
+    border-radius: 20px;
+    padding: 20px;
+}
+
+@media only screen and (max-width:576px) {
+    .logo{
+        text-align: center;
+        padding: 10px 0;
+    }
+    }
+    
+    .top-menu{
+        justify-content: center !important;
+    }
